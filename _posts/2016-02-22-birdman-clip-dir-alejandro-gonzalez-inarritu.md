@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/125609573'
+inLanguage: null
+starred: false
+keywords: []
+description: Academy Award Winning Feature Film.
+datePublished: '2016-02-22T02:14:07.985Z'
+dateModified: '2016-02-22T01:11:38.966Z'
 author:
   - name: Jamahl Garrison-Lowe
     url: 'http://vimeo.com/jamahlgarrisonlowe'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: Academy Award Winning Feature Film.
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/125609573'
     type: ios
@@ -38,15 +41,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/125609573'
 title: 'Birdman (clip), Dir. Alejandro González Iñárritu'
-datePublished: '2016-02-22T01:10:27.431Z'
-dateModified: '2016-02-22T01:09:40.141Z'
 sourcePath: _posts/2016-02-22-birdman-clip-dir-alejandro-gonzalez-inarritu.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
