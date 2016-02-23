@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA["Learn it, live it, love it, let it go."]]></title>
-        <description><![CDATA["Learn it, live it, love it, let it go."]]></description>
+        <title><![CDATA["Learn it, love it, live it, let it go."]]></title>
+        <description><![CDATA["Learn it, love it, live it, let it go."]]></description>
         <link>https://thegrid.ai/jamahldotcom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 02:08:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 02:15:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jamahldotcom/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4cbac46-3505-40fb-bf09-7535071869ea.jpg">]]></description>
-            <link>https://thegrid.ai/jamahldotcom/184fdef1-2936-48fa-b192-e379f27a6d91/index.html</link>
-            <guid isPermaLink="false">184fdef1-2936-48fa-b192-e379f27a6d91</guid>
-            <pubDate>Tue, 23 Feb 2016 02:08:16 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebfdea4b-e399-4f13-868d-a2e1b112852d.jpg">]]></description>
