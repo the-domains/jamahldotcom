@@ -16,8 +16,8 @@ keywords:
   - peierls
   - ber
 description: 'Werner Karl Heisenberg ( German: [ˈhaɪzənbɛɐ̯g]; 5 December 1901 - 1 February 1976) was a German theoretical physicist and one of the key pioneers of quantum mechanics. He published his work in 1925 in a breakthrough paper. In the subsequent series of papers with Max Born and Pascual Jordan, during the same year, this matrix formulation of quantum mechanics was substantially elaborated.'
-datePublished: '2016-02-23T01:58:58.718Z'
-dateModified: '2016-02-23T01:57:50.694Z'
+datePublished: '2016-02-23T02:01:14.754Z'
+dateModified: '2016-02-23T02:00:46.649Z'
 author: []
 related: []
 app_links:
@@ -39,5 +39,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# 1927-- Germantheoretical physicist**Werner Heisenberg**wrote a letter to fellow physicistWolfgang Pauliin which he described hisuncertainty principlefor the first time.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e90c43a-0588-48f8-aed6-b624404cf164.jpg)
+
+1927-- German theoretical physicist **Werner Heisenberg**wrote a letter to fellow physicistWolfgang Pauliin which he described hisuncertainty principlefor the first time.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e318720b-c168-4982-a9ca-982453b35343.jpg)
