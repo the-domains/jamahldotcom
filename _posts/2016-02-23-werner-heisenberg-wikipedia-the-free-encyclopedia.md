@@ -16,8 +16,8 @@ keywords:
   - peierls
   - ber
 description: 'Werner Karl Heisenberg ( German: [ˈhaɪzənbɛɐ̯g]; 5 December 1901 - 1 February 1976) was a German theoretical physicist and one of the key pioneers of quantum mechanics. He published his work in 1925 in a breakthrough paper. In the subsequent series of papers with Max Born and Pascual Jordan, during the same year, this matrix formulation of quantum mechanics was substantially elaborated.'
-datePublished: '2016-02-23T01:57:44.712Z'
-dateModified: '2016-02-23T01:57:33.104Z'
+datePublished: '2016-02-23T01:58:58.718Z'
+dateModified: '2016-02-23T01:57:50.694Z'
 author: []
 related: []
 app_links:
