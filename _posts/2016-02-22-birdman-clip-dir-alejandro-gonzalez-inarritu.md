@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Academy Award Winning Feature Film.
-datePublished: '2016-02-22T02:15:06.098Z'
-dateModified: '2016-02-22T02:14:59.879Z'
+datePublished: '2016-03-08T15:35:16.497Z'
+dateModified: '2016-02-23T02:10:21.082Z'
 author:
   - name: Jamahl Garrison-Lowe
     url: 'http://vimeo.com/jamahlgarrisonlowe'
@@ -54,6 +54,4 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-RESUME     \*      PHOTOS      \*      PRESS      \*      DEMO      \*           
-
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F125609573&amp;url=https%3A%2F%2Fvimeo.com%2F125609573&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F516096739_295x166.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="320" height="240" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
